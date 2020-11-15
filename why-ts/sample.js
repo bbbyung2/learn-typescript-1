@@ -8,13 +8,13 @@
 
 // @ts-check
 
-/**
- * 
- * @param {number} a 
- * @param {number} b 
- */
+// /**
+//  * 
+//  * @param {number} a 
+//  * @param {number} b 
+//  */
 
-function sum(a, b) {
-    return a + b;
-}
-let result = sum(10, '20');
+// function sum(a, b) {
+//     return a + b;
+// }
+// let result = sum(10, '20');
